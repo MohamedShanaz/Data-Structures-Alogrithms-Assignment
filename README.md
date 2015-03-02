@@ -2,4 +2,7 @@
 DSA Assignment
 
 
-Codes 
+Code
+
+Type from Git bash cmd.
+
